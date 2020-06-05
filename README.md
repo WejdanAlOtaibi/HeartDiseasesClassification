@@ -12,7 +12,7 @@ The algorithms I used in this project are:
  - Decision Tree Algorithm: Accuracy of 78.69%
  - Random Forest Classification: Accuracy of 88.52%
  
- Data contains;
+The data contained
 
  - age - age in years
  - sex - (1 = male; 0 = female)
